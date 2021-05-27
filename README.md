@@ -35,7 +35,7 @@ Hi user! Our project with all requirements :) Project is very useful for student
   4 fill in heroku
   
   
-  sweager:
+  sweager
   
   
   1 connecting to sweager 
